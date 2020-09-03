@@ -3,15 +3,15 @@
 
 
 ### About me
->I’m a pancake bitch but I take the cake
+>I’m a pancake bitch but I take the cake  
 I’m gooey in the middle baby let me bake
 
 
 ### About you
->I've been looking for a driver who is qualified
-So if you think that you're the one step into my ride
-I'm a fine-tuned supersonic speed machine
-Got a sunroof top and a gangster lead
+>I've been looking for a driver who is qualified  
+So if you think that you're the one step into my ride  
+I'm a fine-tuned supersonic speed machine  
+Got a sunroof top and a gangster lead  
 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/CavaiNice/CavaiNice?style=social)<br>
