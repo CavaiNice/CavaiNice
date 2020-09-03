@@ -18,10 +18,10 @@ Got a sunroof top and a gangster lead
 ![GitHub top language](https://img.shields.io/github/languages/top/CavaiNice/CavaiNice?style=social)<br>
 
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=CavaiNice&theme=ayu-mirage)](https://github.com/CavaiNice/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=CavaiNice&theme=ayu-mirage)](https://github.com/CavaiNice/github-readme-stats)  
 
 
 
 
-<div align ="center"><img src="https://render.githubusercontent.com/render/math?math=\huge%20Motivation%20=%20\frac%20{Expactancy%20*%20Value}{Impulsiveness%20*%20Delay}"></div>
+<div align ="left"><img src="https://render.githubusercontent.com/render/math?math=\huge%20Motivation%20=%20\frac%20{Expactancy%20*%20Value}{Impulsiveness%20*%20Delay}"></div>
 
