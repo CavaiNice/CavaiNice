@@ -16,6 +16,8 @@ Got a sunroof top and a gangster lead
 ![GitHub repo size](https://img.shields.io/github/repo-size/CavaiNice/CavaiNice?style=social)<br>
 ![GitHub top language](https://img.shields.io/github/languages/top/CavaiNice/CavaiNice?style=social)<br>
 
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=CavaiNice)](https://github.com/CavaiNice/github-readme-stats)
 <!--
 **CavaiNice/CavaiNice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
