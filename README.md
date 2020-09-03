@@ -14,7 +14,7 @@ Got a sunroof top and a gangster lead
 ![GitHub repo size](https://img.shields.io/github/repo-size/CavaiNice/CavaiNice?style=social)<br>
 ![GitHub top language](https://img.shields.io/github/languages/top/CavaiNice/CavaiNice?style=social)<br>
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=CavaiNice&theme=ayu-mirage)](https://github.com/CavaiNice/github-readme-stats)
+![My github stats](https://github-readme-stats.vercel.app/api?username=CavaiNice&theme=ayu-mirage)](https://github.com/CavaiNice/github-readme-stats)
 
-$$Motivation = \frac {Expactancy * Value}{Impulsiveness * Delay }$$
+![formula](https://render.githubusercontent.com/render/math?math=Motivation%20=%20\frac%20{Expactancy%20*%20Value}{Impulsiveness%20*%20Delay})
 
