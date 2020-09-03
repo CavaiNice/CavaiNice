@@ -12,10 +12,9 @@ I'm a fine-tuned supersonic speed machine
 Got a sunroof top and a gangster lead
 
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Cavainice/Cavainice?style=social)
-![GitHub repo size](https://img.shields.io/github/repo-size/CavaiNice/CavaiNice?style=social)
-![GitHub top language](https://img.shields.io/github/languages/top/CavaiNice/CavaiNice?style=social)
-
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Cavainice/Cavainice?style=social)<br>
+![GitHub repo size](https://img.shields.io/github/repo-size/CavaiNice/CavaiNice?style=social)<br>
+![GitHub top language](https://img.shields.io/github/languages/top/CavaiNice/CavaiNice?style=social)<br>
 
 <!--
 **CavaiNice/CavaiNice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
